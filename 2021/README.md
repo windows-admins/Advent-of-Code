@@ -4,9 +4,16 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 
 The first challenges unlock on December 1st at 00:00 EST/05:00 UTC, and continue every day throughout the month.
 
-You can read more about the challenge [here](https://adventofcode.com/about).
+You can read more about the challenge [here](https://adventofcode.com/2021/about).
 
-# WinAdmins Yearly Challenges
+The WinAdmins Leaderboard is here:
+https://adventofcode.com/2021/leaderboard/private/view/1506887
 
- - [2021](2021/README.MD)
+# Day 1
+
+Member|Code Link
+-|-
+Kooties|https://github.com/Kooties/AdventOfCode2021/blob/main/DayOne.ps1
+Anthony Fontanez|https://github.com/ajf8729/AoC-2021
+Chris Dent|https://github.com/indented-automation/AoC/tree/master/2021/01
  
