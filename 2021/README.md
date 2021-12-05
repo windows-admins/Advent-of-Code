@@ -17,6 +17,7 @@ The WinAdmins Leaderboard is [here](https://adventofcode.com/2021/leaderboard/pr
 | Anthony Fontanez | https://github.com/ajf8729/AoC-2021                          |
 | Chris Dent       | https://github.com/indented-automation/AoC/tree/master/2021  |
 | Chris Kibble     | https://github.com/ChrisKibble/Advent-of-Code/tree/main/2021 |
+| Joshua Herrmann  | https://github.com/SotoDucani/AoC2021                        |
 | Kooties          | https://github.com/Kooties/AdventOfCode/tree/main/2021       |
 | Mamue            | https://github.com/Maamue/AoC/tree/main/2021                 |
 | Nathan Ziehnert  | https://github.com/theznerd/AdventOfCode/tree/main/2021      |
