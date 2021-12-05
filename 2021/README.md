@@ -19,3 +19,4 @@ The WinAdmins Leaderboard is [here](https://adventofcode.com/2021/leaderboard/pr
 | Kooties          | https://github.com/Kooties/AdventOfCode/tree/main/2021       |
 | Mamue            | https://github.com/Maamue/AoC/tree/main/2021                 |
 | Nathan Ziehnert  | https://github.com/theznerd/AdventOfCode/tree/main/2021      |
+| Adam Gross       | https://github.com/AdamGrossTX/AOC/tree/main/2021            |
