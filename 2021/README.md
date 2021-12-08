@@ -24,5 +24,5 @@ The WinAdmins Leaderboard is [here](https://adventofcode.com/2021/leaderboard/pr
 | Metalsand (Metalsand)                    | Metalsand        | N/A                                                          |
 | Nathan Ziehnert (TheZNerd)               | @TheZNerd        | https://github.com/theznerd/AdventOfCode/tree/main/2021      |
 | Ryan H (Ryan_H)                          | @SCCM_Ryan       | N/A                                                          |
-| Ton Siemons (???)                        | Infradeploy      | N/A                                                          |
-| WRQ (???)                                | WRQ              | N/A                                                          |
+| Ton Siemons (Kietel)                     | Infradeploy      | N/A                                                          |
+| WRQ (WRQ)                                | WRQ              | N/A                                                          |
