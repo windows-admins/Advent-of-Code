@@ -10,14 +10,19 @@ The WinAdmins Leaderboard is [here](https://adventofcode.com/2021/leaderboard/pr
 
 # Member GitHub Repos
 
-| Member           | GitHub Repo                                                  |
-| ---------------- | ------------------------------------------------------------ |
-| Adam Cook        | https://github.com/codaamok/AoC/tree/main/2021               |
-| Adam Gross       | https://github.com/AdamGrossTX/AOC/tree/main/2021            |
-| Anthony Fontanez | https://github.com/ajf8729/AoC-2021                          |
-| Chris Dent       | https://github.com/indented-automation/AoC/tree/master/2021  |
-| Chris Kibble     | https://github.com/ChrisKibble/Advent-of-Code/tree/main/2021 |
-| Joshua Herrmann  | https://github.com/SotoDucani/AoC2021                        |
-| Kooties          | https://github.com/Kooties/AdventOfCode/tree/main/2021       |
-| Mamue            | https://github.com/Maamue/AoC/tree/main/2021                 |
-| Nathan Ziehnert  | https://github.com/theznerd/AdventOfCode/tree/main/2021      |
+| Name (Discord)                           | AoC Leaderboard  | GitHub Repo                                                  |
+| ---------------------------------------- | ---------------- | ------------------------------------------------------------ |
+| Adam Cook (ACC)                          | Adam Cook        | https://github.com/codaamok/AoC/tree/main/2021               |
+| Adam Gross (AdamGrossTX)                 | AdamGrossTX      | https://github.com/AdamGrossTX/AOC/tree/main/2021            |
+| Anthony Fontanez (krbgt)                 | Anthony Fontanez | https://github.com/ajf8729/AoC-2021                          |
+| Chris Dent (ChrisDent)                   | Chris Dent       | https://github.com/indented-automation/AoC/tree/master/2021  |
+| Chris Kibble (ChrisKibble)               | Chris Kibble     | https://github.com/ChrisKibble/Advent-of-Code/tree/main/2021 |
+| Jeremy Putman (Jeremy Putman)            | JPutman          | https://github.com/jputman/AdventOfCode/tree/main/2021       |
+| Joshua Herrmann (ServerIs(Not)Running)   | Joshua Herrmann  | https://github.com/SotoDucani/AoC2021                        |
+| Kooties ($mod\[1\])                      | Kooties          | https://github.com/Kooties/AdventOfCode/tree/main/2021       |
+| Mamue (Mamue)                            | Maamue           | https://github.com/Maamue/AoC/tree/main/2021                 |
+| Metalsand (Metalsand)                    | Metalsand        | N/A                                                          |
+| Nathan Ziehnert (TheZNerd)               | @TheZNerd        | https://github.com/theznerd/AdventOfCode/tree/main/2021      |
+| Ryan H (Ryan_H)                          | @SCCM_Ryan       | N/A                                                          |
+| Ton Siemons (???)                        | Infradeploy      | N/A                                                          |
+| WRQ (???)                                | WRQ              | N/A                                                          |
