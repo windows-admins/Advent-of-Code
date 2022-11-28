@@ -9,3 +9,4 @@ You can read more about the challenge [here](https://adventofcode.com/about).
 # WinAdmins Yearly Challenges
 
 - [2021](https://github.com/windows-admins/Advent-of-Code/blob/main/2021/README.md)
+- [2022](https://github.com/windows-admins/Advent-of-Code/blob/main/2022/README.md)
