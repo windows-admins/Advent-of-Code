@@ -6,7 +6,7 @@ The first challenges unlock on December 1st at 00:00 EST/05:00 UTC, and continue
 
 You can read more about the challenge [here](https://adventofcode.com/2022/about).
 
-The WinAdmins Leaderboard is [here](https://adventofcode.com/2021/leaderboard/private/view/1506887). The join code is pinned in the `#AoC Misc Discussion` post in the `#advent-of-code-2022` forum channel.
+The WinAdmins Leaderboard is [here](https://adventofcode.com/2022/leaderboard/private/view/1506887). The join code is pinned in the `#AoC Misc Discussion` post in the `#advent-of-code-2022` forum channel.
 
 # Member GitHub Repos
 
