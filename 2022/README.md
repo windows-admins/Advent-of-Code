@@ -14,3 +14,4 @@ The WinAdmins Leaderboard is [here](https://adventofcode.com/2022/leaderboard/pr
 | ------------------------ | ---------------- | ----------------------------------------- |
 | Anthony Fontanez (krbtgt) | Anthony Fontanez | https://github.com/ajf8729/Advent-of-Code |
 | Nathan Ziehnert (theznerd) | Nathan Ziehnert | https://github.com/theznerd/AdventOfCode |
+| Joshua Herrmann (SotoDucani) | Joshua Herrmann | https://github.com/SotoDucani/AoC2022 |
