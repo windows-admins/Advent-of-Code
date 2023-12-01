@@ -11,5 +11,5 @@ The WinAdmins Leaderboard is [here](https://adventofcode.com/2023/leaderboard/pr
 ## Member GitHub Repos
 
 | Name (Discord)            | AoC Leaderboard  | GitHub Repo                                 |
-| ------------------------ -| ---------------- | ------------------------------------------- |
+| --------------------------| ---------------- | --------------------------------------------|
 | Anthony Fontanez (krbtgt) | Anthony Fontanez | <https://github.com/ajf8729/Advent-of-Code> |
