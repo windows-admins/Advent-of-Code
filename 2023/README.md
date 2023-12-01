@@ -13,3 +13,4 @@ The WinAdmins Leaderboard is [here](https://adventofcode.com/2023/leaderboard/pr
 | Name (Discord)            | AoC Leaderboard  | GitHub Repo                                                |
 |---------------------------|------------------|------------------------------------------------------------|
 | Anthony Fontanez (krbtgt) | Anthony Fontanez | <https://github.com/ajf8729/Advent-of-Code/tree/main/2023> |
+| Nathan Ziehnert (theznerd) | Nathan Ziehnert | <https://github.com/theznerd/AdventOfCode/tree/main/2023>  |
