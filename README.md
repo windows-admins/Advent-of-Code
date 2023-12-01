@@ -10,3 +10,4 @@ You can read more about the challenge [here](https://adventofcode.com/about).
 
 - [2021](https://github.com/windows-admins/Advent-of-Code/blob/main/2021/README.md)
 - [2022](https://github.com/windows-admins/Advent-of-Code/blob/main/2022/README.md)
+- [2023](https://github.com/windows-admins/Advent-of-Code/blob/main/2023/README.md)
